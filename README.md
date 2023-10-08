@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Leo!
 
-Welcome to my GitHub profile! I'm a ![Brasil](https://github.com/le0pin/le0pin/assets/137980570/ddf009cf-fae4-48a4-85fd-f0bbb29bb17d) Brazilian who ventured into the world of programming. Currently in Los Angeles, CA, I am dedicated to studying web development and computer science, and I am deeply passionate about coding, constantly exploring ways to create exceptional user experiences in my projects.
+Welcome to my GitHub profile! I'm a brazilian who ventured into the world of programming. Currently in Los Angeles, CA, I am dedicated to studying web development and computer science, and I am deeply passionate about coding, constantly exploring ways to create exceptional user experiences in my projects.
 
 ## 🎯 Skills
 
