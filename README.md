@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a brazilian who ventured into the world of pro
 
 ## 👨🏻‍💻 Portfolio
 
-You can check out some of my work on my [Website](https://website-leopin.vercel.app) or explore my GitHub repositories. Here are a few projects I'm proud of. Feel free to explore my other repositories for more projects and experiments.
+You can check out some of my work on my [Website](https://leopin.vercel.app/) or explore my GitHub repositories. Here are a few projects I'm proud of. Feel free to explore my other repositories for more projects and experiments.
 
 [![Code Sandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/leozl) [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@leozl)
 
